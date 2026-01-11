@@ -12,8 +12,7 @@ An instruction screen explains the controls before the game starts, and clear wi
 
 (images/instructions.png)
 (images/gameplay.png)
-(images/victory.png)
-(images/defeat.png)
+
 
 ────────────────────────────────────────────────────────
 
