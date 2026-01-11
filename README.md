@@ -39,6 +39,7 @@ An instruction screen explains the controls before the game starts, and clear wi
 Software:
 - Python 3.x
 - Pygame library
+- If you download the zip , unzip it !!!
 
 Installation:
 pip install pygame
