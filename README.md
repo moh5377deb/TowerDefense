@@ -8,10 +8,12 @@ An instruction screen explains the controls before the game starts, and clear wi
 
 ────────────────────────────────────────────────────────
 
-📸 PREVIEW
+<h2>Preview</h2>
+<img src="images/instructions.png" width="400">
 
-(images/instructions.png)
-(images/gameplay.png)
+<h2>Gameplay</h2>
+<img src="images/gameplay.png" width="400">
+
 
 
 ────────────────────────────────────────────────────────
